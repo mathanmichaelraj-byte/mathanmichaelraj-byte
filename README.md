@@ -54,9 +54,7 @@
 ---
 
 ## 🌐 Connect With Me  
-- 💼 GitHub: [github.com/mathanmichaelraj-byte](https://github.com/mathanmichaelraj-byte)  
-- 📧 Email: *your-email-here*  
-
+- 💼 GitHub: [github.com/mathanmichaelraj-byte](https://github.com/mathanmichaelraj-byte) 
 ---
 
 ⭐ *“Building today what others will use tomorrow.”*  
