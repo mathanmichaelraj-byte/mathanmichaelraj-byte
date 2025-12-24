@@ -41,19 +41,10 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathanmichaelraj-byte&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/mathanmichaelraj-byte/mathamichaelraj-byte/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathanmichaelraj-byte&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathanichaelraj-byte&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
