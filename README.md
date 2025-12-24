@@ -1,60 +1,66 @@
-# 👋 Hi, I'm Mathan Michael Raj  
+<h1 align="center">Hi 👋, I'm Mathan Michael Raj</h1>
 
-🚀 MCA Aspirant | 💻 App & AI Developer | 🌱 Lifelong Learner  
-
----
-
-## 🧠 About Me  
-- 🎓 Aspiring **MCA student (CEG – Anna University goal 🎯)**  
-- 🤖 Building AI-powered apps using **Flutter, Java, Python & Hugging Face**  
-- 📱 Passionate about **mobile apps, AI tools, and system design**  
-- 💡 Love turning ideas into **real working projects**  
-- 🔥 Currently improving **DSA, Backend & AI integration**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=App+Developer;AI+Enthusiast;MCA+Aspirant;Flutter+%7C+Java+%7C+Python" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+<img align="right" alt="Coding" width="400"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-**Languages**  
-- Java ☕ | Python 🐍 | Dart 🎯 | C  
-
-**Frameworks & Tools**  
-- Flutter  
-- Java Swing  
-- Git & GitHub  
-- MySQL | PostgreSQL | Oracle SQL  
-- Hugging Face 🤗  
-- Firebase  
-
-**Concepts**  
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- REST APIs  
-- AI Chatbots & Automation  
+## 🧠 About Me
+- 🎓 MCA Aspirant (CEG – Anna University 🎯)
+- 🤖 AI + App Developer
+- 📱 Flutter | Java Swing | Python
+- 💡 Building real-world projects
+- 🚀 Goal: Freelancing + Product Building
 
 ---
 
-## 📌 Projects  
-🔹 **LifeTrack** – AI-powered life & health assistant  
-🔹 **LegalLens AI** – Simplifies and explains legal documents  
-🔹 **Weather App** – Clean UI with real-time API  
-🔹 **Scholarship Eligibility System** – Java Swing + Struct logic  
-🔹 **Object Detection App** – Flutter + ML Kit + TFLite  
+## 🛠️ Tech Stack
 
-👉 *More projects coming soon...*
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathanmichaelraj-byte&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathanmichaelraj-byte&layout=compact&theme=tokyonight)
+### Tools & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me  
-- 💼 GitHub: [github.com/mathanmichaelraj-byte](https://github.com/mathanmichaelraj-byte) 
+## 📌 Featured Projects
+🔹 LifeTrack – AI-powered daily assistant  
+🔹 LegalLens AI – Legal document simplifier  
+🔹 Weather App – Clean UI + API  
+🔹 Scholarship Eligibility System  
+
 ---
 
-⭐ *“Building today what others will use tomorrow.”*  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathanmichaelraj-byte&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathanmichaelraj-byte&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathanichaelraj-byte&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- 🔗 GitHub: https://github.com/mathanmichaelraj-byte
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=120&section=footer"/>
+</p>
