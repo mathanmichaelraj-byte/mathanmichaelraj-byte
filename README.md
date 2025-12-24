@@ -41,13 +41,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
-## 🐍 Contribution Activity
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/mathanmichaelraj-byte/mathamichaelraj-byte/output/github-contribution-grid-snake.svg)
-
-
----
-
 ## 🌐 Connect With Me
 - 🔗 GitHub: https://github.com/mathanmichaelraj-byte
 ---
