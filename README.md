@@ -12,9 +12,8 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ## 🧠 About Me
 - 🎓 MCA Aspirant (CEG – Anna University 🎯)
 - 🤖 AI + App Developer
-- 📱 Flutter | Java Swing | Python
+- 📱 Flutter | Java | Python
 - 💡 Building real-world projects
-- 🚀 Goal: Freelancing + Product Building
 
 ---
 
