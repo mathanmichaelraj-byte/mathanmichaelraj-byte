@@ -33,14 +33,15 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FireBase](https://img.shields.io/badge/FireBase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 ---
-
+<!--
 ## 📌 Featured Projects
 🔹 LifeTrack – AI-powered daily assistant  
 🔹 LegalLens AI – Legal document simplifier  
-🔹 Weather App – Clean UI + API  
+🔹 Calorie Tracker – Clean UI + API  
 🔹 Scholarship Eligibility System  
 
 ---
+-->
 
 ## 🌐 Connect With Me
 - 🔗 GitHub: https://github.com/mathanmichaelraj-byte
