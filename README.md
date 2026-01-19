@@ -31,8 +31,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FireBase](https://img.shields.io/badge/FireBase-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![FireBase](https://img.shields.io/badge/FireBase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 ---
 
 ## 📌 Featured Projects
