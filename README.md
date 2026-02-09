@@ -45,7 +45,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ## 🌐 Connect With Me
 - 🔗 GitHub: https://github.com/mathanmichaelraj-byte
-- 🔗 Insta : https://www.instagram.com/michael.flutterdev
 ---
 
 <p align="center">
